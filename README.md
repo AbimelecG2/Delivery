@@ -2,4 +2,4 @@
 Martin Abimelec Garcia
 
 primer avance
-< imgsrc"https://app.genmymodel.com/editor/edit/_zhICkBqrEe2TQ77rRj9fOQ#">
+<img src="https://app.genmymodel.com/api/projects/_zhICkBqrEe2TQ77rRj9fOQ/diagrams/_zhICkxqrEe2TQ77rRj9fOQ/svg">
